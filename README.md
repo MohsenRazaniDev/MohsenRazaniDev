@@ -1,46 +1,50 @@
-# Hi, I'm Mohsen 👋
+<h1 align="center">Hi, I'm Mohsen Razani 👋</h1>
 
-🎯 **Senior Front-End Engineer** with 8+ years of experience crafting elegant, high-performance interfaces.  
-🎨 Passionate about **UI/UX design**, micro-interactions, and pushing the limits of **CSS & modern frontend technologies**.
-
----
-
-## 🔧 Tech Stack
-- **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- **Frameworks**: React.js, Next.js, Tailwind CSS, Sass  
-- **Tools**: Figma, Git, Webpack, Vite, VSCode, Postman  
-- **Methodologies**: BEM, Atomic Design, Mobile-First, Accessibility (a11y)
+<p align="center">
+  🎯 Senior Frontend Developer • UI/UX Designer • 8+ Years of Experience  
+</p>
 
 ---
 
-## 📁 Featured Projects (from [Divinci](https://github.com/MohsenRazaniDev/Divinci))
+### 💡 About Me
 
-| Name                | Description                                     |
-|---------------------|-------------------------------------------------|
-| `art-face`          | Pure CSS abstract animated face using shapes   |
-| `dashboard`         | Dark, minimal dashboard UI built with Grid/Flex|
-| `grid-magazine-v1`  | Editorial layout with responsive CSS Grid      |
-| `grid-magazine-v2`  | Refined version with gradient accents & themes |
-| `interactive-card`  | 3D styled animated UI card with hover effects  |
+I'm a passionate and experienced frontend developer with a strong focus on clean, elegant, and high-performance UI/UX design.  
+Over the past 8+ years, I've specialized in crafting modern web interfaces using cutting-edge frontend technologies.  
+Currently building visually stunning and CSS-driven projects under the brand name **Divinci**.
 
 ---
 
-## 💼 Work Experience
+### 🛠 Tech Stack
 
-Over the past 8 years, I've worked on diverse digital products from enterprise platforms to design-driven startups, focusing on:  
-- Frontend architecture & design systems  
-- UI engineering and seamless user experiences  
-- Performance tuning and pixel-perfect implementation
-
----
-
-## 🌍 Connect with Me
-
-- **Website**: [your-website-here]
-- **LinkedIn**: [your-linkedin-here]
-- **Twitter**: [your-twitter-here]
-- **Email**: [your-email-here]
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
+</p>
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+### 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [Divinci](https://github.com/MohsenRazaniDev/Divinci) | A collection of highly advanced CSS-only projects, showcasing creativity and front-end mastery. Includes: Grid Magazine Layout, Interactive Card, Dashboard, and more. |
+| [HTML Encyclopedia](https://github.com/MohsenRazaniDev/html-encyclopedia) | A pure HTML-based project that pushes the boundaries of what semantic HTML can achieve. |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohsenRazaniDev&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohsenRazaniDev&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mohsen-razani"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohsenrazani21@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
