@@ -30,9 +30,7 @@ Currently building visually stunning and CSS-driven projects under the brand nam
 |--------|-------------|
 | [Divinci](https://github.com/MohsenRazaniDev/Divinci) | A collection of highly advanced CSS-only projects, showcasing creativity and front-end mastery. Includes: Grid Magazine Layout, Interactive Card, Dashboard, and more. |
 | [HTML Encyclopedia](https://github.com/MohsenRazaniDev/html-encyclopedia) | A pure HTML-based project that pushes the boundaries of what semantic HTML can achieve. |
-| [Divinci CodeLab]([https://github.com/MohsenRazaniDev/html-encyclopedia](https://github.com/MohsenRazaniDev/divinci-codelab)) | A clean, live in-browser code editor for HTML, CSS, and JavaScript.
-Features: Live preview, Dark Mode, Reset, Export to ZIP, Auto-save, and Line Numbers.
-Built with pure Vanilla JS — no frameworks. |
+| [Divinci CodeLab]([https://github.com/MohsenRazaniDev/html-encyclopedia](https://github.com/MohsenRazaniDev/divinci-codelab)) | A clean, live in-browser code editor for HTML, CSS, and JavaScript.Features: Live preview, Dark Mode, Reset, Export to ZIP, Auto-save, and Line Numbers.Built with pure Vanilla JS — no frameworks. |
 
 ---
 
